@@ -1,5 +1,6 @@
 /* Select the image with a id of ruby */
 
+#ruby
 /*selector for ruby goes here */  {
   position: absolute;
   z-index: 1;
@@ -10,6 +11,7 @@
 /* Select the image with class of emerald */
 
 /*selector for emerald goes here */  {
+  .emerald
   position: absolute;
   z-index: 2;
   top: 350px;
